@@ -1,0 +1,14 @@
+#mods by seb
+
+dalvik.vm.dexopt-flags=m=v,o=y
+dalvik.vm.dexopt-data-only=1
+video.accelerate.hw=1
+net.bt.name=Android
+ro.max.fling_velocity=12000
+ro.min.fling_velocity=8000
+persist.sys.ui.hw=1
+ro.ril.disable.power.collapse=0
+windowsmgr.max_scan_interval=180
+ro.kernel.android.checkjni=0
+pm.sleep_mode=1
+debug.performance.tuning=1
