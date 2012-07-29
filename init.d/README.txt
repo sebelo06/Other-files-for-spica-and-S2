@@ -1,0 +1,1 @@
+script for init.d (spica and other phones)
